@@ -342,4 +342,6 @@ El sistema gestiona a los usuarios en tres estados fundamentales:
 
 ---
 
-> Recuerda que debes subir los cambios al repositorio remoto. 
+> Recuerda que debes subir los cambios al repositorio remoto.
+
+[Acceso a la descripción y soluciones](https://docs.google.com/document/d/1vnTLuDog6NbLF6gQCbvKI3RiIr9Yd8GTjR7aYQ8xwzY/edit?usp=sharing)
